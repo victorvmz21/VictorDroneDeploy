@@ -1,6 +1,6 @@
 # Victor's Drone Deploy Test
 
-This project I am using SwiftUI without library
+This project I am using SwiftUI without any 3rd party library
 
 ## How to build the app
 
